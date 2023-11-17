@@ -1,0 +1,1 @@
+import{dq as n,dr as r,ds as a,dt as c,c3 as o,dp as _,dW as p}from"./injective.5ec62b21.js";import{_ as m}from"./Input.vue.63a14335.js";const d={};function f(e,i){const t=p,s=m;return r(),a(s,_(e.$attrs,{ref:"search-input",round:"",sm:""}),{default:c(()=>[o(t,{name:"search",class:"text-gray-450 relative -right-3 h-4 w-4"})]),_:1},16)}const l=n(d,[["render",f]]);export{l as _};

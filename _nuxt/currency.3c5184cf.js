@@ -1,0 +1,1 @@
+import{o as t}from"./injective.5ec62b21.js";const o={chf:"0.894",eur:"0.9134",gbp:"0.7855",usd:"1"},l=e=>({chf:new t(e).multipliedBy(o.chf).toFixed(4),eur:new t(e).multipliedBy(o.eur).toFixed(4),gbp:new t(e).multipliedBy(o.gbp).toFixed(4),usd:new t(e).toFixed(4)});export{l as g,o as h};

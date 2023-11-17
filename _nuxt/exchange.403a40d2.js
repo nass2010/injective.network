@@ -1,0 +1,1 @@
+import{x as a,au as c}from"./entry.d056f6df.js";const r=()=>({oracles:[]}),t=a("exchange",{state:()=>r(),actions:{async fetchOracles(){const e=t();e.oracles.length>0||e.$patch({oracles:await c.fetchOracleList()})},reset(){t().$reset()}}});export{t as u};

@@ -1,0 +1,1 @@
+import{br as a,dr as d,dG as r,dT as o,dV as n}from"./injective.5ec62b21.js";const t=a({__name:"Card",props:{isDense:Boolean},setup(e){return(s,p)=>(d(),r("div",{class:n(["dark:bg-gray-950 shadow-light dark:shadow-card rounded-xl bg-gray-100 overflow-hidden",{"xs:p-6 2md:p-8 2md:px-8 p-4 sm:px-8 md:p-4 md:px-6":!e.isDense}])},[o(s.$slots,"default")],2))}});export{t as _};
